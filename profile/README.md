@@ -23,7 +23,6 @@ Our organization maintains a complete ecosystem of tools to secure your MLflow d
 ### ☸️ Kubernetes Deployment
 - **[helm](https://github.com/mlflow-oidc/helm)** - Helm charts for Kubernetes deployment
   - Production-ready Kubernetes deployments
-  - 📦 **12 releases** available
   - Easy configuration and scaling
 
 ### 🧪 Development & Testing
