@@ -10,7 +10,6 @@ Our organization maintains a complete ecosystem of tools to secure your MLflow d
 
 ### 🔌 Core Plugin
 - **[mlflow-oidc-auth](https://github.com/mlflow-oidc/mlflow-oidc-auth)** - The main OIDC authentication plugin for MLflow tracking servers
-  - ⭐ **56 stars** | 🍴 **19 forks** | 📦 **54 releases**
   - Full OpenID Connect integration with group-based authorization
   - Supports major identity providers (Okta, Microsoft Entra ID, and more)
   - Built-in permission management system
